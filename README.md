@@ -7,7 +7,7 @@ The recid are at the end of the INSPIRE labs URLS. two example
   * https://labs.inspirehep.net/literature/1726790
 
 
-See the notebook
+See the [notebook](inspire-try1.ipynb) or [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cranmer/inspire_play/master?filepath=inspire-try1.ipynb)
 
 ## Usage
 
